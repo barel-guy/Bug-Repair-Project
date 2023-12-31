@@ -4,7 +4,9 @@
 
 
 ## About the Project: 
-This interactive Tableau dashboard presents an in-depth analysis of salary trends in the data science and analytics field. Utilizing current and historical salary data, it offers insights into variations by role, experience, and geographic location. Designed for both industry professionals and aspiring data scientists, the dashboard serves as a valuable tool for understanding compensation patterns and guiding career decisions in the data-driven job market.
+When managing a software project, it is common using a version management system like git and a bug tracking system like Jira. Then, a bug description is added to the tracker when a bug occurs. Each bug description has several textual properties. When a bug is found in a certain function, it can be solved by various changes. For example, any change can be defined by the lines added or removed, the number of functions changed, Etc.
+
+In this project, I would like to find the connection between the description of the bug, the faulty function, and the actions taken to fix the bug to build a Machine Learning model that can recommend those actions.
 
 ## ABOUT THE DATASET:
 The datset can be found on Kaggle:  [Link to the dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) 
