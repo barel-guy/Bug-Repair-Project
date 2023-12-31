@@ -9,4 +9,6 @@ When managing a software project, it is common using a version management system
 In this project, I would like to find the connection between the description of the bug, the faulty function, and the actions taken to fix the bug to build a Machine Learning model that can recommend those actions.
 
 ## ABOUT THE DATASET:
-The datset can be found on Kaggle:  [Link to the dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) 
+The Data Set contains a list of buggy files from the bug management system and their properties, like the functions that were changed to fix them, and the change patterns needed to fix them, and Etc.
+
+A site from which a list of bugfix templates can be extracted-   [defects4j](http://program-repair.org/defects4j-dissection/#!/) 
