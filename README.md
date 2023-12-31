@@ -1,5 +1,5 @@
 # Bug Repair Project
-![Screenshot]()
+![Screenshot](https://github.com/barel-guy/Bug-Repair-Project/blob/main/Images/bug%20repair.png)
 
 
 
